@@ -2,10 +2,10 @@ package Tree;
 
 import Entities.Cliente;
 
-public class ArvoreClientes {
+public class ArvoreCadastro {
 
     Node raiz;
-    public ArvoreClientes() {
+    public ArvoreCadastro() {
         this.raiz = null;
     }
 
