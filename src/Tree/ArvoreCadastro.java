@@ -4,11 +4,11 @@ import Entities.Cliente;
 
 //Arvore que organiza clientes usando como critério o CPF
 
-public class ArvoreClientes {
+public class ArvoreCadastro {
 
     Node raiz;
 
-    public ArvoreClientes() {
+    public ArvoreCadastro() {
         this.raiz = null;
     }
 
